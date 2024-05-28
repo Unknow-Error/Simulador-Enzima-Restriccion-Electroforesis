@@ -99,7 +99,7 @@ obtener_secuencia_en_fasta <- function(ruta_fasta) {
 
 
 # Ejemplo de uso N°2 (con Archivo .fasta)
-ruta_fasta <- "C:\\Users\\Saloc\\projectsPrograms\\Simulador-ARDA\\kefiranofaciens subspAJ575259.fasta"
+ruta_fasta <- "Ruta del archivo .fasta"
 secuencia_adn <- obtener_secuencia_en_fasta(ruta_fasta)
 corte_pos <- 3
 
